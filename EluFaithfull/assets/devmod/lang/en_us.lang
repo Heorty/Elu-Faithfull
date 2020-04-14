@@ -1,0 +1,70 @@
+tile.block_emyrle.name=Emyrle Block
+tile.emyrle_ore.name=Emyrle Ore
+tile.elurium_ore.name=Elurium Ore
+itemGroup.EluriumTab= 
+tile.itemspawner.name=Ore Spawner
+tile.xray_block.name=Xray Block
+
+item.pillager_helmet.name=Pillager Helmet
+item.emyrle_sword.name=Emyrle Sword
+item.emyrle_ingot.name=Emyrle Ingot
+item.emyrlespawnerupgrade.name=Emyrle spawner upgrade
+item.emyrle_axe.name=Emyrle Axe
+item.emyrle_pickaxe.name=Emyrle Pickaxe
+
+item.elurium_axe.name=Elurium Axe
+item.elurium_pickaxe.name=Elurium Pickaxe
+item.elurium_sword.name=Elurium Sword
+
+item.elurium_helmet.name=Elurium Helmet
+item.elurium_chestplate.name=Elurium Chestplate
+item.elurium_leggings.name=Elurium Leggings
+item.elurium_boots.name=Elurium Boots
+
+item.emyrle_helmet.name=Emyrle Helmet
+item.emyrle_chestplate.name=Emyrle Chestplate
+item.emyrle_leggings.name=Emyrle Leggings
+item.emyrle_boots.name=Emyrle Boots
+
+entity.SilentWither.name=SilentWither
+
+tile.bounce_pad.name=Bounce Pad
+item.pillager_chestplate.name=Pillager Chestplate
+item.pillager_leggings.name=Pillager Leggings
+item.pillager_boots.name=Pillager Boots
+
+item.ender_stick.name=Ender Stick
+item.elurium_multitool.name=Elurium Multitool
+
+item.dynamite.name=Dynamite
+tile.block_elurium.name=Block Elurium
+item.elurium_ingot.name=Elurium Ingot
+tile.rd_ore.name=Random Ore
+tile.geode.name=Geode
+item.specialarmor_helmet.name=Diving Helmet
+
+item.emyrle_multitool.name=Emyrle Multitool
+item.emyrle_shovel.name=Emyrle Shovel
+item.elurium_shovel.name=Elurium Shovel
+
+tile.geode_ore.name=Geode
+
+item.plaque_aliage.name=Plaque d'aliage
+item.aliage.name=Aliage
+item.embleme.name=Embleme
+
+item.zallium_pickaxe.name=Zallium Pickaxe
+item.zallium_sword.name=Zallium Sword
+item.zallium_axe.name=Zallium Axe
+item.zallium_shovel.name=Zallium Shovel
+
+item.elurium_carrot.name=Carotte en Elurium
+item.zallium_fragment.name=Fragment de Zallium
+item.zallium_ingot.name=Lingot de Zallium
+item.glowingpotion.name=Glowing Potion
+item.zallium_chestplate.name=Zallium Chestplate
+item.zallium_boots.name=Zallium Boots
+item.zallium_leggings.name=Zallium Leggings
+item.zallium_helmet.name=Zallium Helmet
+
+entity.Volnarb.name=Volnarb
